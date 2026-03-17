@@ -31,6 +31,8 @@ nmap -sV -sC 10.150.150.11
   - 443/tcp HTTPS
   - 445/tcp Microsoft-DS
   - 1433/tcp MS SQL Server 2012
+
+
 - Gobuster:
 
 ```bash
@@ -121,7 +123,7 @@ type C:\Users\Administrator\Desktop\FLAG1.txt
 
 Flag:
 ```bash
-PwnTillDawnAcademyIsAwesome!!!flag
+PwnTillDawnAcademyIsAwesome!!!
 ```
 ---
 
