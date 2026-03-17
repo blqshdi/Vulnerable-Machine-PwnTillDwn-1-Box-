@@ -1,17 +1,26 @@
-# PwnTillDawn Lab Write-up
+# 🛡️ PwnTillDawn Write-up — Target 10.150.150.11
 
-## Target
-- **IP:** 10.150.150.11
-- **OS:** Windows (XAMPP)
-- **Difficulty:** Beginner/Intermediate
+> 🎯 First Blood — Full System Compromise + Flag Captured
 
-## Tools Used
-- **Nmap** – Port scanning, service enumeration
-- **Gobuster** – Directory enumeration
-- **Browser / Dashboard** – Manual exploration
-- **PHP Shell** – Remote Code Execution (RCE)
-- **Terminal / Nano** – File creation
+---
 
+## 📌 Target Information
+| Item        | Details                |
+|------------|----------------------|
+| IP Address | 10.150.150.11        |
+| OS         | Windows (XAMPP)      |
+| Difficulty | Beginner / Intermediate |
+
+---
+
+## 🧰 Tools Used
+- Nmap
+- Gobuster
+- Browser (Manual Enumeration)
+- PHP Web Shell
+- Kali Linux
+
+---
 ---
 
 ## Steps Taken
